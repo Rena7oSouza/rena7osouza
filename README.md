@@ -49,6 +49,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+## 🛠️Workstation Tools:
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
 ---
 
 ## 📫 Contact
@@ -59,6 +67,21 @@
 </br>
 </br>
 ⭐ **Let's build impactful solutions together.**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rena7osouza&theme=dracula&show_icons=true&card_width=1000px)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
